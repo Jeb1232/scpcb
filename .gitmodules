@@ -10,7 +10,7 @@
 [submodule "Libraries/freetype"]
 	path = Libraries/freetype
 	url = https://github.com/Jeb1232/freetype.git
-	branch = pr
+	branch = master
 
 [submodule "Libraries/tinyxml2"]
 	path = Libraries/tinyxml2
