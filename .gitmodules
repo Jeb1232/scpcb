@@ -5,13 +5,13 @@
 	
 [submodule "Libraries/angelscript"]
 	path = Libraries/angelscript
-	url = git@github.com:SCP-CBN/angelscript.git
+	url = https://github.com/juanjp600/angelscript.git
 
 [submodule "Libraries/freetype"]
 	path = Libraries/freetype
-	url = git@github.com:SCP-CBN/freetype.git
+	url = https://github.com/juanjp600/freetype.git
 	branch = pr
 
 [submodule "Libraries/tinyxml2"]
 	path = Libraries/tinyxml2
-	url = git@github.com:SCP-CBN/tinyxml2.git
+	url = https://github.com/juanjp600/tinyxml2.git
