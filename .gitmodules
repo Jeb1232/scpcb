@@ -5,7 +5,7 @@
 	
 [submodule "Libraries/angelscript"]
 	path = Libraries/angelscript
-	url = https://github.com/juanjp600/angelscript.git
+	url = https://github.com/SCP-CBN/angelscript.git
 
 [submodule "Libraries/freetype"]
 	path = Libraries/freetype
